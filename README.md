@@ -1,4 +1,4 @@
-# [!Mocanu-Prejma Vladimir header](./icon/gh-header.png)](https://www.linkedin.com/in/vladimirmocanu/)
+# [![Mocanu-Prejma Vladimir header](./icon/gh-header.png)](https://www.linkedin.com/in/vladimirmocanu/)
 
 # Hi, I'm Vladimir!
 
